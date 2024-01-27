@@ -24,7 +24,8 @@
 
 ###
 
-<p align="left">📫I’m currently working on : Something Interesting.</p>
+<p align="left">📫I’m currently working on : Something Interesting</p> 
+
 
 ###
 
@@ -40,7 +41,7 @@
 
 ###
 
-<p align="left">📝 Checkout my resume</p>
+<p align="left">📝 Checkout my [resume]</p>
 
 ###
 
