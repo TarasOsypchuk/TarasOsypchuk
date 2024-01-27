@@ -66,3 +66,8 @@
 </div>
 
 ###
+<h3 align="left">My projects</h3>
+<div align="left">
+  <a href="https://tarasosipchukk.github.io/Portfolio__Photographer/">Portfolio Photographer</a>
+</div>
+
