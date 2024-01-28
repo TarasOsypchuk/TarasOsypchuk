@@ -41,8 +41,6 @@
 
 ###
 
-<p align="left">📝 Checkout my [resume]().</p>
-
 ###
 
 <h3 align="left">Languages and Tools that i know and use :</h3>
