@@ -69,3 +69,8 @@
   <a href="https://tarasosipchukk.github.io/Portfolio__Photographer/">Portfolio Photographer</a>
 </div>
 
+###
+
+![](https://komarev.com/ghpvc/?username=tarasosipchukk&color=lightgrey)
+
+###
