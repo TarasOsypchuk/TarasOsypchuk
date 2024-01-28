@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">📫I’m currently working on : Something Interesting</p> 
+<p align="left">📫I’m currently working on : Something Interesting.</p> 
 
 
 ###
@@ -37,11 +37,11 @@
 
 ###
 
-<p align="left">🎯Goal : Making a significant contribution to open projects</p>
+<p align="left">🎯Goal : Making a significant contribution to open projects.</p>
 
 ###
 
-<p align="left">📝 Checkout my [resume]</p>
+<p align="left">📝 Checkout my [resume]().</p>
 
 ###
 
