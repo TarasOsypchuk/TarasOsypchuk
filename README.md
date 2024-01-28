@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">📚 I’m currently learning : Nginx.</p>
+<p align="left">📚 I’m currently learning : React.</p>
 
 ###
 
