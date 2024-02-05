@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">🌳LifeStyle : Be a better person.</p>
+<p align="left">🌳LifeStyle : Be a better version of myself.</p>
 
 ###
 
