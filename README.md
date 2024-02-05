@@ -71,6 +71,5 @@
 
 ###
 
-![](https://komarev.com/ghpvc/?username=tarasosipchukk&color=lightgrey)
 
 ###
